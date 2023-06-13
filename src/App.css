@@ -1,0 +1,18 @@
+body{
+    padding: 20px;
+    box-sizing: border-box;
+}
+nav{
+    margin: 20px 0px;
+}
+nav a{
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: medium;
+    font-weight: 500;
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    margin: 0px 5px;
+    box-sizing: border-box;
+}
